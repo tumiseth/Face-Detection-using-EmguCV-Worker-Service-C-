@@ -1,7 +1,9 @@
 # Face-Detection-using-EmguCV-Worker-Service-C-
 
 Face Detection Worker Service
+
 Introduction
+
 The Face Detection Worker Service is a powerful application built using C# that leverages cutting-edge computer vision algorithms to detect and analyze faces in images and videos. It provides a scalable, efficient, and reliable solution for face detection tasks, allowing you to integrate it seamlessly into your applications.
 
 Features
